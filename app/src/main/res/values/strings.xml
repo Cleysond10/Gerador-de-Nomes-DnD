@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="escolha_a_ra_a_para_gerar_nomes_aleat_rios_para_d_d"><![CDATA[ESCOLHA A RAÇA PARA GERAR NOMES ALEATÓRIOS PARA D&D]]></string>
+    <string name="lfico">ÉLFICO</string>
+    <string name="humano">HUMANO</string>
+    <string name="halfling">HALFLING</string>
+    <string name="tiefling">TIEFLING</string>
+    <string name="meio_orc">MEIO-ORC</string>
+    <string name="draconato">DRACONATO</string>
+    <string name="gnomo">GNOMO</string>
+    <string name="lfico2">ÉLFICO2</string>
+    <string name="an_o">ANÃO</string>
+    <string name="textview">TextView</string>
+    <string name="escolha_a_ra_a_para_gerar_nomes_aleat_rios_para_d_d2"><![CDATA[ESCOLHA A RAÇA PARA GERAR NOMES ALEATÓRIOS PARA D&D]]></string>
+    <string name="an_o2">ANÃO2</string>
+    <string name="textview2">TextView2</string>
+    <string name="meio_orc2">MEIO-ORC2</string>
+    <string name="tiefling2">TIEFLING2</string>
+    <string name="humano2">HUMANO2</string>
+    <string name="draconato2">DRACONATO2</string>
+    <string name="halfling2">HALFLING2</string>
+    <string name="gnomo2">GNOMO2</string>
+    <string name="todo">TODO</string>
+    <string name="gerador_de_nomes_d_d"><![CDATA[GERADOR DE NOMES D&D]]></string>
+    <string name="todo1">TODO1</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo3">TODO3</string>
+    <string name="todo11">TODO</string>
+    <string name="todo22">TODO</string>
+    <string name="todo33">TODO</string>
+</resources>
